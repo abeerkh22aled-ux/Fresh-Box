@@ -136,7 +136,7 @@ class _LoginPageState extends State<LoginPage> {
               onPressed: () {},
               child: Text(
                 "LogIn",
-                style: TextStyle(fontSize: 16, color: Colors.white), // أبيض
+                style: TextStyle(fontSize: 16, color: Colors.white), 
               ),
             ),
 
